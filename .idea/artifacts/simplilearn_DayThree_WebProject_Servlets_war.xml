@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="simplilearn_DayThree_WebProject_Servlets:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>simplilearn_DayThree_WebProject_Servlets</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="simplilearn_DayThree_WebProject_Servlets-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="simplilearn_DayThree_WebProject_Servlets:war exploded" />
+    </root>
+  </artifact>
+</component>
