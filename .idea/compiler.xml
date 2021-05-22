@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="simplilearn_DayThree_WebProject_Servlets" target="1.8" />
+      <module name="simplilearn_DayThree_WebProject_Servlets" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
